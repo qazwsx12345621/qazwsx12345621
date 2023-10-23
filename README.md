@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @qazwsx12345621
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-qazwsx12345621/qazwsx12345621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+//无聊消遣的小工具
+1：使用随机图api隔段时间替换壁纸的exe
+2：有下载的功能
