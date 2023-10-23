@@ -1,0 +1,11 @@
+安装pyinstaller库：在命令行中执行以下命令来安装pyinstaller库：
+
+pip install pyinstaller
+进入源代码所在目录：在命令行中，使用cd命令导航到包含Python源代码的目录。
+
+使用pyinstaller打包代码：在命令行中执行以下命令来将Python源代码打包为exe文件：
+
+pyinstaller --onefile --noconsole your_script.py
+上述命令将源代码文件your_script.py打包为一个可执行文件，并且禁止CMD窗口显示。生成的可执行文件通常位于dist目录下。
+
+查找生成的exe文件：在命令行中，进入dist目录，并找到生成的exe文件。
